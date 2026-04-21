@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'webmock/rspec'
 require_relative '../lib/http_checker'
 require_relative '../lib/security_headers'

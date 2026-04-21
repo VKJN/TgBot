@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'telegram/bot'
 require 'dotenv/load'
 require_relative 'lib/http_checker'
